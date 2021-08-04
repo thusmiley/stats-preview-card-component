@@ -83,7 +83,7 @@ span {
   line-height: 1.6;
 }
 
-@media (max-width: 627px) {
+@media (max-width: 650px) {
   .container {
     width: 300px;
     height: 700px;
@@ -127,12 +127,6 @@ span {
   }
   .header {
     margin-top: 20px;
-  }
-}
-
-@media (max-width: 883px) {
-  #content {
-    padding: 35px;
   }
 }
 /*# sourceMappingURL=style.css.map */
