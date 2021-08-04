@@ -95,7 +95,6 @@ span {
         -ms-flex-pack: end;
             justify-content: flex-end;
     text-align: center;
-    margin: 20px;
   }
   .background {
     width: 100%;
@@ -127,7 +126,7 @@ span {
             align-items: center;
   }
   .header {
-    margin-top: 20px;
+    margin-top: 30px;
   }
 }
 /*# sourceMappingURL=style.css.map */
